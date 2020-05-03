@@ -1,2 +1,0 @@
-# Mobile-Applivcation
-Bsc Project
